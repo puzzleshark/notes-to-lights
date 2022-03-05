@@ -1,0 +1,7 @@
+name: "Notes to Lights"
+description: "watch notes!"
+version: "1.0.0"
+slug: "notes_to_lights"
+hassio_role: default
+arch:
+  - aarch64
